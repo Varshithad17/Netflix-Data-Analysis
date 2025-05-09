@@ -9,6 +9,7 @@ This project aims to analyze Netflix's vast content library to derive actionable
 - Visualizations to showcase insights and trends.
 # 🛠️ Tech Stack
 Programming Language: Python
+
 Libraries:
 - Data Analysis: Pandas, NumPy
 - Visualization: Matplotlib, Seaborn
