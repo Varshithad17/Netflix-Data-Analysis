@@ -14,6 +14,7 @@ Libraries:
 - Visualization: Matplotlib, Seaborn
 # 📊 Dataset
 Source : Dataset_link
+
 The dataset consists of:
   - Show_id: Unique ID for every Movie / TV Show
   - Type: Identifier - A Movie or TV Show
@@ -27,3 +28,12 @@ The dataset consists of:
   - Duration: Total Duration - in minutes or number of seasons
   - Listed_in: Genre
   - Description: The summary description
+# 🔍 Key Insights
+- In general, there seems to be a trend of adding movies to Netflix with a longer delay compared to TV shows. This could indicate that viewers might have a higher demand for recent TV shows than movies.
+- Spain has the lowest delay for movies (2 years) and TV shows (1 year), which could suggest that Spanish viewers have a preference for more recent content.
+- Countries like India, UK,USA and France have in general more delay in movies (8 to 6 years) and very less delay in TV Shows (1 to 3 years) indicating preference for recent TV shows and older movies in these 
+  countries.
+- Japan has a consistent delay (5 to 6 years) in both Movies and TV Shows.
+# 📈 Recommendations
+- The data suggests that catering to local preferences is crucial for success. Netflix should continue to invest in producing content that resonates with different cultural and linguistic preferences around the world.
+- Given the significant investment in content production in the USA and the emphasis on India, Netflix should continue to focus on these markets.
